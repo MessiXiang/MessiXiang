@@ -14,11 +14,12 @@
 ### Github Stats
 ![Metrics](/github-metrics.svg)
 
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MessiXiang&layout=compact&hide=HTML)
 
 [![YinghaoXiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=MessiXiang)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Leave a star✨ if you like :) 
+#### Leave a star✨ if you like :) -->
 
 <!--
 **MessiXiang/MessiXiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
