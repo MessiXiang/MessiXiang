@@ -2,8 +2,9 @@
 
 ### Basic Information
 - 🌐 An undergraduate of computer science
-- ✈ An aviation enthusiast
+- ✈️ An aviation enthusiast
 - 🛰 The head of SpaceRanger Cubesat's On Board Computer group
+- 💻 Research Intern at ColaLab
 
 ### Using Languages
 ![c](https://img.shields.io/badge/C-34a4f3?logo=c&logoColor=ffffff) ![cmake](https://img.shields.io/badge/Cmake-34a4f3?logo=cmake) ![c++](https://img.shields.io/badge/C++-34a4f3?logo=cplusplus) ![python](https://img.shields.io/badge/Python-34a4f3?logo=python&logoColor=ffffff) ![verilog](https://img.shields.io/badge/Verilog-34a4f3) ![HTML5](https://img.shields.io/badge/HTML5-34a4f3?logo=html5&logoColor=ffffff) ![markdown](https://img.shields.io/badge/Markdown-34a4f3?logo=markdown) ![JAVA](https://img.shields.io/badge/JAVA-34a4f3)
