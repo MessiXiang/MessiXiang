@@ -12,6 +12,9 @@
 ### Tools
 ![neovim](https://img.shields.io/badge/Neovim-1f256d?logo=neovim&logoColor=ffffff) ![vscodium](https://img.shields.io/badge/Vscodium-1f256d?logo=vscodium&logoColor=ffffff) ![nginx](https://img.shields.io/badge/Nginx-1f256d?logo=nginx&logoColor=ffffff) ![pytorch](https://img.shields.io/badge/PyTorch-1f256d?logo=pytorch&logoColor=ffffff) ![hexo](https://img.shields.io/badge/Hexo-1f256d?logo=hexo&logoColor=ffffff) ![git](https://img.shields.io/badge/Git-1f256d?logo=git&logoColor=ffffff)
 
+### Github Score
+<a href="https://githubroast.icu/u/MessiXiang"><img src="https://githubroast.icu/api/card/MessiXiang" alt="GitHub Roast" width="600" /></a>
+
 ### Github Stats
 ![Metrics](/github-metrics.svg)
 
